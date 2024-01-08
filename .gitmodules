@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/mlin/mlin.r-universe.dev
-	shallow = true
 	branch = HEAD
 [submodule "RGenomicSQLite"]
 	path = RGenomicSQLite
 	url = https://github.com/mlin/RGenomicSQLite
-	shallow = true
-	registered = true
